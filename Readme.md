@@ -10,3 +10,6 @@
 3. `pip install -r requirements.txt`
 4. Add your gemini api key to .env file.
 5. `streamlit run app.py` ==> This will open application on port 8501 and will be shown
+
+## Application screen
+![image](https://github.com/Jay1305/ats-resume-expert/assets/31636584/23fb1ab0-65fa-4f4c-9124-efa41fd336c6)
